@@ -16,3 +16,6 @@ Deliverables in parent outputs/: proposal PPTX, technical PDF/Markdown, source Z
 
 ## Home page update — 31 October 2026
 User reference: https://www.instagram.com/reel/DfHyZQoIH_U/ . Viewed the reel and its caption: cobalt curiosity cabinet, object collage, cursor-following spider and silk. Implemented an original WonderLab adaptation in components/Landing.tsx and components/landing.css. Root / now serves the landing page; /?view=studio and other existing query routes keep the complete app. Mobile layouts, interactive note, pointer following, motion pause and existing route responses checked. No new dependencies. Home page is static content; authentication and database permissions unchanged. GitHub remains public; hosted Site audience remains owner-private. Publish status below must be confirmed from native tool results.
+
+## GitHub Pages setup — 31 October 2026
+User requested publishing directly from GitHub. Added a standalone Vite home-page build, correct repository subpath assets, explicit links to the existing backend studio, and GitHub Actions Pages deployment on main. Pages source set to GitHub Actions. Local pages build and typecheck pass. Await remote deployment confirmation before claiming the github.io URL is live. The full studio remains hosted on Sites with existing private permissions.

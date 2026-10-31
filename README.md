@@ -65,3 +65,6 @@ Validate the teaching model and rubric with educators. Extend the template libra
 
 ## Animated home page
 The root URL opens a curiosity-cabinet landing page inspired by the interaction in https://www.instagram.com/reel/DfHyZQoIH_U/ . It uses original CSS/SVG objects and existing WonderLab illustrations; no reel media or third-party code is copied. A pointer-following spider and bounded silk trail, a rotating cassette, and a three-state curiosity note provide interaction. Motion can be disabled and respects reduced-motion preferences. Mobile uses a responsive two-column collection with the spider hidden. Every preview links to the functioning studio or sample exhibit; the installable app still starts directly in the studio.
+
+## GitHub Pages
+The public animated home page publishes from main using .github/workflows/pages.yml. Build locally with npm run build:pages. This outputs dist-pages/ with all required illustrations and correct /wonderlab/ asset paths. Studio links open the existing full-stack hosted application, whose private access still applies. GitHub Pages hosts the home page only; it cannot run the D1 database or trusted Sites sign-in. Future main-branch pushes automatically deploy the home page.
