@@ -1,0 +1,9 @@
+/* Keep small, meaningful labels readable against the light workspace. */
+:root{--muted:#5e7065}
+.eyebrow,.workspace-label,.live-indicator,.category,.card-meta,.project-subline,.saved,.input-note,.range-endpoints,.app-footer,.metric-label,.question-category,.feedback-type,.practice-mode{color:#5f715d}
+.status-chip{color:#56644d}.status-chip.published{color:#326346}
+.metrics-grid>div>span:last-child,.metrics-grid strong small,.range-field strong small,.saved-model dt,.saved-model p,.question-progress,.question-progress>span:last-child,.long-answer small,.template-details,.assumptions summary{color:#5f715d}
+.rubric-panel,.rubric-panel h3,.rubric-panel strong,.rubric-panel p,.practice-tip,.practice-tip h3,.question-prompt,.feedback-body p,.feedback-hero p,.credit-entry small,.comment small,.version-row p{color:#5d6f55}
+.how-it-works p,.how-it-works div div>span,.member-row small,.profile small{color:#5e7065}
+input::placeholder,textarea::placeholder{color:#65765f}.hero-caption{display:none}
+@media(pointer:coarse){.icon-button{min-width:44px;min-height:44px}.project-tabs>button{min-height:44px}.menu-actions>button,.menu-actions>a{min-height:48px}}
