@@ -62,3 +62,6 @@ Private project content remains restricted to members. Published exhibits expose
 
 ## Next improvements
 Validate the teaching model and rubric with educators. Extend the template library, add human rubric reviews and content moderation, and measure the cost and accuracy of optional AI/voice features before enabling them.
+
+## Animated home page
+The root URL opens a curiosity-cabinet landing page inspired by the interaction in https://www.instagram.com/reel/DfHyZQoIH_U/ . It uses original CSS/SVG objects and existing WonderLab illustrations; no reel media or third-party code is copied. A pointer-following spider and bounded silk trail, a rotating cassette, and a three-state curiosity note provide interaction. Motion can be disabled and respects reduced-motion preferences. Mobile uses a responsive two-column collection with the spider hidden. Every preview links to the functioning studio or sample exhibit; the installable app still starts directly in the studio.

@@ -13,3 +13,6 @@ Verification: seven model/PDF/API tests passed; type checking and production bui
 Hosting identity: appgprj_6ae5990093488191a558e6cc4fd2ca2a. Intended private URL: https://wonderlab-rehearsal-studio.nuttyriver33.chatgpt.site . Deployment status must be read from Sites before claiming publication.
 
 Deliverables in parent outputs/: proposal PPTX, technical PDF/Markdown, source ZIP after publication. Keep this file current when resuming; do not change the agreed objectives. Source implementation is in wonderlab/.
+
+## Home page update — 31 October 2026
+User reference: https://www.instagram.com/reel/DfHyZQoIH_U/ . Viewed the reel and its caption: cobalt curiosity cabinet, object collage, cursor-following spider and silk. Implemented an original WonderLab adaptation in components/Landing.tsx and components/landing.css. Root / now serves the landing page; /?view=studio and other existing query routes keep the complete app. Mobile layouts, interactive note, pointer following, motion pause and existing route responses checked. No new dependencies. Home page is static content; authentication and database permissions unchanged. GitHub remains public; hosted Site audience remains owner-private. Publish status below must be confirmed from native tool results.
