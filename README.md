@@ -1,5 +1,9 @@
 # WonderLab with Rehearsal
 
+[Open the deployed app](https://wonderlab-rehearsal-studio.nuttyriver33.chatgpt.site)
+
+This repository is public. The deployed app currently requires owner access through Sites. Its API and database run on the existing Worker hosting; GitHub Pages alone cannot run this backend. GitHub uploads do not automatically deploy to Sites.
+
 ## Purpose
 Help students and creative educators create interactive educational exhibits, collaborate on them, receive visible credit, and practise explaining their own work.
 
